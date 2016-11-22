@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TransporteUdg</string>
+    <string name="API_KEY">AIzaSyDbw5CzFwRnADqFXu2CdCy71oBOYic_dDY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
